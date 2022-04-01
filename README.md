@@ -42,5 +42,5 @@ npm install
 npm start
 
 ### Screenshots of screens
-![App Screenshot]https://github.com/shxisti/Tatvasoft-Practical/blob/main/screen-1.png)
+![Screenshot](screen-1.png)
 
