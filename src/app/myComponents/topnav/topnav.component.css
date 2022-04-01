@@ -1,0 +1,26 @@
+.line{
+    height: 1px;
+    width: 15%;
+    color: inherit;
+    background-color: currentColor;
+    opacity: 0.25;
+    border: 0;
+    margin-top:20px;
+
+}
+.dot{
+    height: 40px;
+    width: 40px;
+    border-radius: 75%;
+    background-color: #bbb;
+    display: inline-block;
+    text-align: center;
+}
+.navflex{
+    display: flex;
+    flex-direction: row;
+    -moz-column-gap: 2px;
+    column-gap: 2px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
