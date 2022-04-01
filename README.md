@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Get started
+
+### Clone the repo
+
+shell
+git clonehttps://github.com/shxisti/Tatvasoft-Practical.git
+cd intern-angular
+
+
+### Install npm packages
+
+Install the `npm` packages described in the `package.json` and verify that it works:
+
+npm install
+npm start
