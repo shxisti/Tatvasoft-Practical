@@ -43,4 +43,6 @@ npm start
 
 ### Screenshots of screens
 ![Screenshot](screen-1.png)
-
+![Screenshot](screen-2.png)
+![Screenshot](screen-3.png)
+![Screenshot](screen-4.png)
