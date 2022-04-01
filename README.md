@@ -27,19 +27,22 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Get started
 
-### Clone the repo
+## Making Components:
+Here I have made five diffrent components for 4 different screen + one component for Top Nav :
+TopnavComponent-- top nav bar
+ProjectdtlsComponent--screen-1
+ProjectcostComponent--screen-2
+ProjectdatesComponent--screen-3
+ProjectgalleryComponent--screen-4
+Importance-- code can easily be managed and can be reused.
 
-shell
-git clonehttps://github.com/shxisti/Tatvasoft-Practical.git
-cd intern-angular
+## Adding Routing
+Moving from one component to another is done using Angular Routing.For this I have added path and component in app-routing.module.ts.
+Click function called on top nav menu that is actually swiching these components using Router class.
 
+## Angular Material
+Here date field can be implemented using Angular Date picker. This is part of Angular material.
 
-### Install npm packages
-
-Install the `npm` packages described in the `package.json` and verify that it works:
-
-npm install
-npm start
 
 ### Screenshots of screens
 ![Screenshot](screen-1.png)
